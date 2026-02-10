@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
-**Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `KHAGRACHARI, BANGLADESH`
+**Name:** `Noyon Chowdhury`  
+**Nice Name:** `Noyon`  
+**Profession:** `Film Maker`  
+**Location:** `Cumilla, Bangladesh `
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801615881740)
+- **Facebook:** [Profile Me]([https://www.facebook.com/profile.php?id=100072632495752])
+- **Messenger:** [Message Me](https://m.me/100072632495752)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
